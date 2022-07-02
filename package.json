@@ -1,0 +1,25 @@
+{
+  "name": "crosstown-traffic",
+  "version": "0.0.1",
+  "description": "Remix.run form handling. Form libraries are the easiest and there simply aren't enough of them. Solbaer saft!",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magikmarker/crosstown-traffic.git"
+  },
+  "keywords": [
+    "remix.run",
+    "forms",
+    "react",
+    "blazingly-fast"
+  ],
+  "author": "magik marker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magikmarker/crosstown-traffic/issues"
+  },
+  "homepage": "https://github.com/magikmarker/crosstown-traffic#readme"
+}
